@@ -1,0 +1,16 @@
+/* div{color: #fff;} */
+.box:nth-child(1){
+    height: 100px;
+    width: 100px;
+    background: url(./imgs/1.png) no-repeat center center;
+}
+.box:nth-child(2){
+    height: 100px;
+    width: 100px;
+    background: url(./imgs/2.jpg) no-repeat center center;
+}
+.box:nth-child(3){
+    height: 100px;
+    width: 100px;
+    background: url(./imgs/3.jpg) no-repeat center center;
+}
